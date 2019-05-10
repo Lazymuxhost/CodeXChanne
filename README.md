@@ -60,10 +60,6 @@ Then restart Bot.
 
 [@MrHalix](https://telegram.me/MrHalix)
 
-# Support and development
-
-More information [Beyond Development](https://telegram.me/joinchat/AAAAAD9JFZlMveUl8q99gA)
-
-### Our Telegram channel:
+# Support and developm
 
 [@BeyondTeam](https://telegram.me/BeyondTeam)
